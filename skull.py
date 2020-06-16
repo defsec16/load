@@ -80,25 +80,49 @@ print(banner2)
 sleep(8)
 clean()
 banner3 ="""
-........................................
-'''''''''''''':okO000Okdc,..............
-''''''''''''ckXWXOxxxk0NN0l'............
-'''''''''''lXWKo;''...':kNWx............
-'''''''''':0MKc'''''....'xWNl...........
-''''''''''cXMO;'''''.....,ll;...........
-''''''''''lXMO,'''''....................
-''''''',;;oXWOc;:;;;;;;;,,''',,,........
-''''''ckO00KXK00000OOOOOOOOOOOOko,......
-''''';xKKKKKKKKKKKKK000000000000O:......
-''''';xKKKKKKKKKKkdoldO000000000O:......
-''''';xKKKKKKKKKk,....cO00000000O:......
-''''';xKKKKKKKKKOc...,d000000000O:......
-''''';xKKKKKKKKKKk,..c0000000000Oc......
-''''';xKKKKKKKKKKd'..;k000000000Oc......
-''''';xKKKKKKKKK0c...'xK00000000O:......
-''''';xKKKKKKKKK0dccclx000000000O:......
-''''',dKKKKKKKKKKKKK000000000000k:......
-'''''';ldxxxxxxxxxxdodddooodoool,.......
-''''''''''''''''''''''''''''''''''''''''
+\033[31m 
+               :okO000Okdc,
+            ckXWXOxxxk0NN0l'
+           lXWKo;''   ':kNWx.
+          :0MKc         'xWNl.
+          cXMO;          ,ll;.
+          lXMO,           OXl'
+       ,;;oXWOc;:;;;;;;;,,''',,,
+      ckO00KXK00000OOOOOOOOOOOOko,
+     ;xKKKKKKKKKKKKK000000000000O:
+     ;xKKKKKKKKKKkdoldO000000000O:
+     ;xKKKKKKKKKk,....cO00000000O:
+     ;xKKKKKKKKKOc...,d000000000O:
+     ;xKKKKKKKKKKk,..c0000000000Oc
+     ;xKKKKKKKKKKd'..;k000000000Oc
+     ;xKKKKKKKKK0c...'xK00000000O:
+     ;xKKKKKKKKK0dccclx000000000O:
+     ,dKKKKKKKKKKKKK000000000000k:
+      ;ldxxxxxxxxxxdodddooodooool,
+
 """
 print(banner3)
+sleep(4)
+clean()
+banner4 ="""
+\033[32m  
+               :okO000Okdc,
+            ckXWXOxxxk0NN0l'
+           lXWKo;''   ':kNWx.
+          :0MKc         'xWNl.
+          cXMO;          ,ll;.
+          lXMO,
+       ,;;oXWOc;:;;;;;;;,,''',,,
+      ckO00KXK00000OOOOOOOOOOOOko,
+     ;xKKKKKKKKKKKKK000000000000O:
+     ;xKKKKKKKKKKkdoldO000000000O:
+     ;xKKKKKKKKKk,....cO00000000O:
+     ;xKKKKKKKKKOc...,d000000000O:
+     ;xKKKKKKKKKKk,..c0000000000Oc
+     ;xKKKKKKKKKKd'..;k000000000Oc
+     ;xKKKKKKKKK0c...'xK00000000O:
+     ;xKKKKKKKKK0dccclx000000000O:
+     ,dKKKKKKKKKKKKK000000000000k:
+      ;ldxxxxxxxxxxdodddooodooool,
+      """
+print(banner4)
